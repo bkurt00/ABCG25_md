@@ -1,0 +1,12 @@
+&general
+   startframe=1, endframe=1000, interval=1,
+   verbose=1, keep_files=0,
+   entropy=0,
+/
+&gb
+   igb=5, saltcon=0.150,
+/
+&pb
+   istrng=0.150,
+/
+

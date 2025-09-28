@@ -1,0 +1,10 @@
+&general
+   interval=1,
+   verbose=1, keep_files=0,
+   entropy=0,
+/
+
+&gb
+   igb=7,
+   saltcon=0.150,
+/
