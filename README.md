@@ -17,3 +17,7 @@ The `prepare_box.py` script is used to automatically generate the grid box cente
 
 ### 🚀 Example Output
 
+./vina.exe --receptor protein1.pdbqt --ligand ligand.pdbqt
+--center_x 12.3 --center_y 45.6 --center_z 78.9
+--size_x 20.0 --size_y 20.0 --size_z 20.0
+--out "A_results/protein1_out.pdbqt" --log "A_results/protein1_log.txt"
